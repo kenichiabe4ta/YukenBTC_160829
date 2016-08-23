@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_device_access_bluetooth_searching.png",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

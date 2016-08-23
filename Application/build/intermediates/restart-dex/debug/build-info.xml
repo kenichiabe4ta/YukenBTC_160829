@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="tvdpi"
+    format="7"
+    timestamp="33414408416742"
+    token="1622479546331347519" >
+
+    <task
+        name="javac"
+        duration="311" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="274" />
+    <task
+        name="verifier"
+        duration="60" />
+
+    <artifact
+        location="E:\_dev\Java\Android\_project\YukenBTC\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="33414408416742" >
+        <artifact
+            location="E:\_dev\Java\Android\_project\YukenBTC\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

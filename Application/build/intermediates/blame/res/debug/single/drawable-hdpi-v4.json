@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_device_access_bluetooth_searching.png",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    }
+]

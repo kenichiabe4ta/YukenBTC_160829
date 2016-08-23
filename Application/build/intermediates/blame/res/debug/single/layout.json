@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\_dev\\Java\\Android\\_project\\YukenBTC\\Application\\src\\main\\res\\layout\\device_name.xml"
+    }
+]
