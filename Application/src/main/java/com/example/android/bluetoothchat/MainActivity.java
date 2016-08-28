@@ -26,8 +26,6 @@ import android.view.Menu;
  * on other devices it's visibility is controlled by an item on the Action Bar.
  */
 public class MainActivity extends FragmentActivity {
-//    public static final String TAG = "MainActivity";
-//    private boolean mLogShown;    // Whether the Log Fragment is currently shown
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

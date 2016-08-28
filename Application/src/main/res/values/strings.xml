@@ -35,17 +35,6 @@
     <string name="discoverable">Make discoverable</string>
     <!-- 元々base-strings.xmlにあったものを統合 -->
     <string name="app_name">YukenBTC</string>
-    <string name="intro_message">
-        <![CDATA[
-            This application allows two Android devices to carry out two-way text chat over
-            Bluetooth. It demonstrates all the fundamental Bluetooth API capabilites, such as:
-              (1) Scanning for other Bluetooth devices
-              (2) Querying the local Bluetooth adapter for paired Bluetooth devices
-              (3) Establishing RFCOMM channels/sockets
-              (4) Connecting to a remote device
-              (5) Transfering data over Bluetooth
-        ]]>
-    </string>
     <!-- 元々fragmentview_strings.xmlにあったものを統合 -->
     <string name="sample_show_log">Show Log</string>
     <string name="sample_hide_log">Hide Log</string>
